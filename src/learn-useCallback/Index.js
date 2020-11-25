@@ -26,7 +26,7 @@ export default function Index() {
         <div className="Main">
             <p className="Text">Counter with useState</p>
             <p>Kelompok 11</p>
-            <p>Maftukhah dan Dayat</p>
+            <p>Maftukhah dan Dayatt</p>
 
             <p className="Text">{count}</p>
             <div className="ViewButton">
